@@ -1,6 +1,5 @@
-brewfile - MacBook Setup For Delevopers -
+MacBook Setup For Delevopers
 ========
-
 ## Over View
 新しいMacBookを購入した際、イチからセットアップするのってすごい大変。  
 そこで、簡単に開発に必要なツール類を``` brew bundle```コマンドのみで実行することが出来ます。
